@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FitPulse</string>
+    <string name="tab_today">Today</string>
+    <string name="tab_calories">Nutrition</string>
+    <string name="tab_history">History</string>
+    <string name="tab_profile">Goals</string>
+    <string name="steps_title">Daily Steps</string>
+    <string name="calories_title">Calories</string>
+    <string name="calorie_intake">Intake</string>
+    <string name="calories_burned">Burned</string>
+    <string name="net_calories">Net</string>
+    <string name="step_goal">Step Goal</string>
+    <string name="calorie_goal">Calorie Goal</string>
+    <string name="water_title">Hydration</string>
+    <string name="add_food">Log Food</string>
+    <string name="permission_rationale">FitPulse uses the physical activity sensor on your phone to count your daily steps accurately.</string>
+    <string name="grant_permission">Enable Step Sensor</string>
+    <string name="live_sensor_active">Hardware Step Sensor Active</string>
+    <string name="live_sensor_fallback">Manual / Device Walking Mode</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse",
+  "description": "Daily fitness tracker for Android monitoring steps, calorie intake and burn, meals, and hydration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
